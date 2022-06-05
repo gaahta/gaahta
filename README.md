@@ -22,9 +22,9 @@ Here are some ideas to get you started: -->
   
   ##
   
-<div>   
-  ![Snake animation](https://github.com/gaahta/gaahta/blob/output/github-contribution-grid-snake.svg)
-</div>
+ 
+  ![Snake_gif](https://github.com/gaahta/gaahta/blob/output/github-contribution-grid-snake.svg)
+
   
   <!-- <img align="center" alt="Gaah-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gaah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
