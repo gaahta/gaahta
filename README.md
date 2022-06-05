@@ -25,7 +25,8 @@ Here are some ideas to get you started: -->
   ##
   <div align="center"><a href = "mailto:glaucia.fernandez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gaahta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/gaahta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  <a href="https://instagram.com/gaahta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <img align="right" alt="Gaah-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/29/de/f5/29def59ea2e478160c3f86a3a2d68bbd.jpg">
     
   ##
    
