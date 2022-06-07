@@ -42,6 +42,7 @@ Here are some ideas to get you started: -->
   <img align="right" alt="Gaah-pic" height="150" style="border-radius:50px;" src="VOU COLOCAR O LINK DA IMAGEM AQUI QUANDO EU TIVER ENCONTRADO UMA LEGAL QUE PAREÇA COMIGO">
 </div> -->
   
+ 
 
 
 <!--
@@ -53,4 +54,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+BUY ME A COFFEE
+https://www.buymeacoffee.com/gaahta
+
 -->
