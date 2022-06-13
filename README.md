@@ -58,3 +58,22 @@ BUY ME A COFFEE
 https://www.buymeacoffee.com/gaahta
 
 -->
+  
+  
+  <details>
+<summary>🦇 Card dev 🦇</summary>
+	   
+<div style="display: inline_block;" align="center"><br>
+   <img align="center" alt="rd-pic" height="360" src="https://api.daily.dev/devcards/f1a0af5038274a0dae81b9ab55852530.png?r=cd5" alt="gaahta's Dev Card">   
+</div> 
+	   
+</details> 	   
+	   
+    
+   <details>
+<summary>🦇 Metrics 🦇</summary>
+	
+ ![Metrics](https://metrics.lecoq.io/gaahta?template=classic&isocalendar=1&languages=1&people=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)   
+
+	   
+</details> 
