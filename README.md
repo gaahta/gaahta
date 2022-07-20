@@ -7,14 +7,16 @@ Here are some ideas to get you started: -->
 - 🔭 Ainda não trabalho no ramo da programação
 - 🌱 Eu estou aprendendo JavaScript
 
+
+ &show_icons=true
 ##
 
 <div align="center">
   <a href="https://github.com/gaahta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&show_icons=true&theme=aura&include_all_commits=true&count_private=true&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=7&theme=aura&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
  
 </div>
