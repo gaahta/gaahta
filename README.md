@@ -12,12 +12,12 @@ Here are some ideas to get you started: -->
 <div align="center">
   <a href="https://github.com/gaahta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=9&theme=aura&hide=0"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=9&theme=aura"/>
  
 </div>
 
 <div align="center">
-  <img height="200em" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=gaahta&theme=aura" alt="gaahta" /> 
+  <img height="200em" width="750" src="https://github-readme-streak-stats.herokuapp.com/?user=gaahta&theme=dracula" alt="gaahta" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaahta&bg_color=1,000000,9b111e&title_color=fff&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=7&bg_color=1,9b111e,000000&title_color=fff&text_color=fff"/>
 </div>
