@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 <div align="center">
   <a href="https://github.com/gaahta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=9&theme=aura&hide=0"/>
  
 </div>
