@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 - 🔭 Ainda não trabalho no ramo da programação
-- 🌱 Eu estou aprendendo JavaScript
+- 🌱 Eu estou aprendendo JavaScript e algumas stacks
 
 ##
 
