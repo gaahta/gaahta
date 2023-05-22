@@ -4,7 +4,7 @@
 **gaahta/gaahta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 🔭 Ainda não trabalho no ramo da programação
+- 🔭 Ainda não trabalho no ramo da programação, estou em busca de uma oportunidade.
 - 🌱 Eu estou aprendendo JavaScript, AWS, DevOps, Cloud Computing.
 
 ##
