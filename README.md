@@ -1,4 +1,4 @@
-### Olá! Eu sou a Glaucia Fernandes, estudante de Computação e Desenvolvimento Web! 
+### Olá! Eu sou a Glaucia Fernandes, estudante de Computação e Desenvolvimento Web Front-end e Back-end! 
 
 <!--
 **gaahta/gaahta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
