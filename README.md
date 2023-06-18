@@ -1,5 +1,5 @@
 ### Olá! Bem vindo ao meu perfil 🖖
-Eu sou a Glaucia Fernandes, estudante de Computação no IFRJ e futura Desenvolvedora Front-end e Back-end! 
+Eu sou a Glaucia Fernandes, estudante de Computação no IFRJ e quero ser Desenvolvedora Front-end e Back-end! 
 
 - 🔭 Estou em transição de carreira e busco uma oportunidade no ramo da programação.
 - 🌱 Atualmente estou aprendendo JavaScript & Cloud Computing.
