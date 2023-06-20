@@ -37,6 +37,12 @@ Eu sou a Glaucia Fernandes, estudante de Computação no IFRJ e quero ser Desenv
  
    
   ![Snake animation](https://github.com/gaahta/gaahta/blob/output/github-contribution-grid-snake.svg)
+
+  ##
+
+ <!-- ![snake animation](https://github.com/gaahta/gaahta/blob/output/github-contribution-grid-snake2.svg) -->
+
+
   </div>
 
 
