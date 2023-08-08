@@ -3,6 +3,7 @@ Eu sou a Glaucia Fernandes, estudante de Computação no IFRJ e quero ser Desenv
 
 - 🔭 Estou em transição de carreira e busco uma oportunidade no ramo da programação.
 - 🌱 Atualmente estou aprendendo JavaScript & Cloud Computing.
+- 🚗 Tirando CNH AB
 
 ##
 
