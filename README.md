@@ -1,18 +1,18 @@
 ### Olá! Bem vindo ao meu perfil 🖖
-Eu sou a Glaucia Fernandes, estudante de Computação no IFRJ e quero ser Desenvolvedora Front-end e Back-end! 
+Eu sou a Glaucia Fernandes, estudante de Computação e quero ser Desenvolvedora Front-end e Back-end! 
 
 - 🔭 Estou em transição de carreira e busco uma oportunidade no ramo da programação.
-- 🌱 Atualmente estou aprendendo JavaScript & Cloud Computing.
+- 🌱 Atualmente estou aprendendo JavaScript, Angular e Java, através do Santander Bootcamp 2023.
 - 🚗 Tirando CNH AB
 
 ##
-
+<!-- 
 <div align="center">
   <a href="https://github.com/gaahta">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&theme=aura&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=6&theme=aura"/>
     
-</div>
+</div> -->
 
   
 <div style="display: inline_block" align="center"><br>
