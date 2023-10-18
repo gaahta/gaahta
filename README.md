@@ -32,7 +32,7 @@
   </div>
   </div>   
   <div id="img-pixel-art" align="center">
-    <img height="700" style="border-radius:20px;" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+    <img height="500" style="border-radius:20px;" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
   </div>
 </div>
 
