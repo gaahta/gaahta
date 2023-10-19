@@ -1,7 +1,7 @@
 <div align="center">
-<h2> Hello World, welcome to my GitHub Profile 🖖</h2>
-<h3>My name is Glaucia, brazilian, married, 30yo., computation studant and future software enginner.</h3>
-<h4>Typing codes ans Learning languages and librarys/frameworkscodes </h4>
+<p> Hello World, welcome to my GitHub Profile 🖖</p>
+<p>My name is Glaucia, brazilian, married, 30yo., computation studant and future software enginner.</p>
+<p>Typing codes ans Learning languages and librarys/frameworkscodes </p>
 </div>
 
 <div align="center"> 
@@ -36,7 +36,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100"/>
 
-<h3> GamePlay:</h3>
+<p> GamePlay:</p>
 
     --I love play CSGO && CS2 && Tibia.
 
