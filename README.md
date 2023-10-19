@@ -1,7 +1,9 @@
 <div align="center">
-<p> Hello World, welcome to my GitHub Profile 🖖</p>
-<p>My name is Glaucia, brazilian, married, 30yo., computation studant and future software enginner.</p>
-<p>Typing codes ans Learning languages and librarys/frameworkscodes </p>
+  <p style="font-family: fantasy; font-size:25px; color: #61ffca;"> Hello World, welcome to my GitHub Profile 🖖</p>
+
+  <p style="font-family: serif; font-size:16px; color: #956fd0"> My name is Glaucia, brazilian, married, 30yo., <br>computation studant and future software enginner.</p>
+
+  <p style="font-family: monospace; font-size:15px; color: #00ff00"> >>> Typing codes ans Learning languages and librarys/frameworkscodes <<< </p>
 </div>
 
 <div align="center"> 
@@ -36,7 +38,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100"/>
 
-<p> GamePlay:</p>
+<p style="font-family: fantasy; font-size:15px; color: #956fd0;"> GamePlay:</p>
 
     --I love play CSGO && CS2 && Tibia.
 
