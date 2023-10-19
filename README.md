@@ -1,7 +1,8 @@
-## Hello, welcome 🖖 
-- My name is Glaucia, brazilian, married, 30yo., computation studant and future software enginner.
-
-    ### Typing codes ans Learning languages and librarys/frameworkscodes
+<div align="center">
+<h2> Hello World, welcome to my GitHub Profile 🖖</h2>
+<h3>My name is Glaucia, brazilian, married, 30yo., computation studant and future software enginner.</h3>
+<h4>Typing codes ans Learning languages and librarys/frameworkscodes </h4>
+</div>
 
 <div align="center"> 
   <img alt="Gaah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,8 +14,11 @@
   <img alt="Gaah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img alt="Gaah-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/angularjs/angularjs-original.svg">
 </div>
+<br>
 
-<img align="right" width="100%" height="" style="border-radius:20px;" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+<div align="center">
+  <img width="60%" height="" style="border-radius:20px;" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+</div>
 
 <div align="center">
   <a href="https://github.com/gaahta">
@@ -32,7 +36,8 @@
 
 <img align="left" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="100"/>
 
-#### GamePlay:
+<h3> GamePlay:</h3>
+
     --I love play CSGO && CS2 && Tibia.
 
     
