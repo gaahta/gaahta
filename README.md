@@ -3,7 +3,7 @@
 
   <p style="font-family: serif; font-size:16px; color: #956fd0"> My name is Glaucia, brazilian, married, 30yo., <br>computation studant and future software enginner.</p>
 
-  <p style="font-family: monospace; font-size:15px; color: #00ff00"> >>> Typing codes and Learning languages and librarys/frameworkscodes <<< </p>
+  <p style="font-family: monospace; font-size:15px; color: #00ff00"> >>> Typing codes and Learning languages and librarys/frameworks codes <<< </p>
 </div>
 
 <div align="center"> 
