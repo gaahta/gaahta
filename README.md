@@ -1,7 +1,7 @@
 <div align="center">
   <p style="font-family: fantasy; font-size:25px; color: #61ffca;"> Hello World, welcome to my GitHub Profile 🖖</p>
 
-  <p style="font-family: serif; font-size:16px; color: #956fd0"> My name is Glaucia, brazilian, married, 30yo., <br>computation studant and future software enginner.</p>
+  <p style="font-family: serif; font-size:16px; color: #956fd0"> My name is Glaucia, I'm brazilian, married, 30yo., <br>computation studant and future software enginner.</p>
 
   <p style="font-family: monospace; font-size:15px; color: #00ff00"> >>> Coding and Learning languages and librarys/frameworks <<< </p>
 </div>
