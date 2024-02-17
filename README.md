@@ -2,7 +2,7 @@
   <p style="font-family: fantasy; font-size:25px; color: #61ffca;"> Hello World, welcome to my GitHub Profile 🖖</p>
 
   <p style="font-family: serif; font-size:16px; color: #956fd0"> My name is Glaucia, I'm brazilian, married, 30yo., <br>computation studant and future software enginner.<br>
-  >> Getting ready to immigrate to Portugal! ✈️🇵🇹 << <br>I bought a new laptop and coming back to my studies.</p>
+  >> Recent arrival in Portugal! ✈️🇵🇹 << <br>I bought a new laptop and I'm coming back to my studies.</p>
 
   <p style="font-family: monospace; font-size:15px; color: #00ff00"> >>> Coding and Learning languages and librarys/frameworks <<< </p>
 </div>
@@ -11,6 +11,7 @@
   <img alt="Gaah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Gaah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Gaah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Gaah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
  
 </div>
 <br>
