@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://github.com/gaahta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&theme=aura&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true"/>
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gaahta&theme=aura&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahta&layout=compact&langs_count=6&theme=aura"/> 
 </div> <br>
 
