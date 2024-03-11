@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  <img width="75%" height="" style="border-radius:20px;" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
+  <img width="80%" height="" style="border-radius:20px;" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
 </div>
 
 <div align="center">
