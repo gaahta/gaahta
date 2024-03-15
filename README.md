@@ -7,6 +7,7 @@
 
 <div align="center"> 
   <img alt="Gaah-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <p>Python</p>
 </div>
 <br>
 <div align="center">
@@ -24,6 +25,8 @@
   <img alt="Gaah-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img alt="Gaah-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img alt="Gaah-GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
+
+  <p style="font-size:8px"> HTML, CSS, JavaScript, TypeScript, Git, React, Redux, MySQL, PostgreSQL, Go Lang</p>
   
 
 </div>
